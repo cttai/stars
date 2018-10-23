@@ -1,9 +1,5 @@
 /*
 Christine Tai
-604919786
-CS 31 / Prof. Smallberg
-Disc 1D
-Project 5
 
 The purpose of this program is to allow the computer to pick a secret word of four to six letters
 and the player has to try to guess the word. The computer will tell the player how many letters 
